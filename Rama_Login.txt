@@ -1,5 +1,9 @@
 Rama Login a subir a GitHub
 
+<<<<<<< HEAD
 Segunda Rama a subir en GitHub
 
 Tercera Rama a subir en GitHub
+=======
+Segunda Rama a subir en GitHub
+>>>>>>> 319809683e2e8a7f387e0fa61fca48cdd1d37d88
